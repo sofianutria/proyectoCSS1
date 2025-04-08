@@ -1,0 +1,42 @@
+.card{
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: rgb(223, 214, 225);
+}
+
+.title{
+
+}
+.subtitle{
+    font-weight:bolder;
+}
+
+.social-login {
+
+}
+.google-btn {
+
+}
+.btn-text {
+
+}
+.fb-btn {
+
+}
+
+.or{
+  
+}
+     
+.email-login {
+
+}
+.cta-btn {
+
+}
+.forget-pass{
+    
+}
