@@ -32,8 +32,18 @@
 }
      
 .email-login {
-
+    color: rgb(133, 120, 120);
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
 }
+.enter-password {
+    color: rgb(133, 120, 120);
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+    }
 .cta-btn {
 
 }
