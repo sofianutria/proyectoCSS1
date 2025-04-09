@@ -44,10 +44,13 @@ form {
 }
      
 .email-login {
+    display: flex;
     color: rgb(189, 177, 177);
     flex-direction: column;
     gap: 10px;
     margin-bottom: 20px;
+    text-align: left;
+    
 }
 .enter-password {
     color: rgb(228, 214, 214);
@@ -56,7 +59,14 @@ form {
     margin-bottom: 20px;
 }
 .cta-btn {
-
+    width: 100%;
+    padding: 12px 20px;
+    font-size: 16px;
+    background-color: #473f90;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
 }
 .forget-pass{
     display: block;
