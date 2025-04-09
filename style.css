@@ -1,10 +1,17 @@
 .card{
+    background-color: white;
+    padding:50px;
+    width: 300px;
     font-family: sans-serif;
+    margin: 50px; 
+    border-radius: 10px;
+    
+}
+body{
     display: flex;
-    justify-content: center;
+    background-color: rgb(198, 205, 255);
     align-items: center;
-    margin: 0;
-    background-color: rgb(223, 214, 225);
+    justify-content: center;
 }
 
 .title{
@@ -43,7 +50,6 @@
     gap: 10px;
     margin-bottom: 20px;
 }
-    }
 .cta-btn {
 
 }
