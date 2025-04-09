@@ -1,3 +1,4 @@
+
 .card{
     font-family: sans-serif;
     display: flex;
@@ -6,12 +7,16 @@
     margin: 0;
     background-color: rgb(223, 214, 225);
 }
-
+form {
+    text-align: center;
+    background-color: white;
+}
 .title{
-
+   margin-bottom: 10px;
 }
 .subtitle{
     font-weight:bolder;
+    margin-bottom: 60px;
 }
 
 .social-login {
@@ -28,17 +33,17 @@
 }
 
 .or{
-  
+  margin: 20px 0;
 }
      
 .email-login {
-    color: rgb(133, 120, 120);
+    color: rgb(189, 177, 177);
     flex-direction: column;
     gap: 10px;
     margin-bottom: 20px;
 }
 .enter-password {
-    color: rgb(133, 120, 120);
+    color: rgb(228, 214, 214);
     flex-direction: column;
     gap: 10px;
     margin-bottom: 20px;
@@ -48,5 +53,8 @@
 
 }
 .forget-pass{
-    
+    display: block;
+    margin-top: 10px;
+    color: #473f90;
+    font-weight: bolder;
 }
