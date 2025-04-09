@@ -28,7 +28,7 @@ form {
 .social-login {
 
 }
-.google-btn {
+.google-btn, .fb-btn {
     width: 100%;
     padding: 10px;
     font-size: 14px;
@@ -44,8 +44,9 @@ form {
 .btn-text {
 
 }
-.fb-btn {
-
+.google-btn img, .fb-btn img {
+    height: 20px;
+    margin-right: 10px;
 }
 
 .or{
